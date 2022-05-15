@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://paulwet.com/initialcommit/</loc>
+    <lastmod>2022-05-15T17:44:06+02:00</lastmod>
+  </url><url>
+    <loc>https://paulwet.com/new-website/</loc>
+    <lastmod>2022-05-15T17:44:06+02:00</lastmod>
+  </url><url>
+    <loc>https://paulwet.com/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://paulwet.com/about/</loc>
+  </url>
+</urlset>
